@@ -8,7 +8,7 @@ const routes: Array<RouteRecordRaw> = [
         path: '',
         name: 'view',
         meta: {
-          title: '长城汽车',
+          title: '汽车',
           auth: false,
         },
         component: () => import('@/views/index.vue'),

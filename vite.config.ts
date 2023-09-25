@@ -121,7 +121,7 @@ export default defineConfig(({ mode }) => {
       createHtmlPlugin({
         inject: {
           data: {
-            title: '长城汽车',
+            title: '汽车',
           },
         },
       }),
